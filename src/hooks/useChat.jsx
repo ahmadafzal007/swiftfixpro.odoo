@@ -23,6 +23,11 @@ const filePrefixes = {
     transcript: "services.json",
     answer: "SwiftFixPro offers a comprehensive range of services, including drilling, plumbing, air conditioning maintenance and servicing, cleaning services, furniture moving/disposal services, upholstery and mattress cleaning, electrical services, door and window replacement or installation, demolition works, renovation services, painting services, and waterproofing works.",
   },
+  "about your services": {
+    audio: "services.wav",
+    transcript: "services.json",
+    answer: "SwiftFixPro offers a comprehensive range of services, including drilling, plumbing, air conditioning maintenance and servicing, cleaning services, furniture moving/disposal services, upholstery and mattress cleaning, electrical services, door and window replacement or installation, demolition works, renovation services, painting services, and waterproofing works.",
+  },
   "How many types of services": {
     audio: "services.wav",
     transcript: "services.json",
