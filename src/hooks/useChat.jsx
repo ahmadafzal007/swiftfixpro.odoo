@@ -7,6 +7,11 @@ const filePrefixes = {
     transcript: "Hi.json",
     answer: "Hi! How can I assist you",
   },
+  "name": {
+    audio: "name.wav",
+    transcript: "name.json",
+    answer: "My name is SwiftFixPro.",
+  },
   "Hi ": {
     audio: "Hi.wav",
     transcript: "Hi.json",
