@@ -43,7 +43,7 @@ export const UI = ({ hidden, ...props }) => {
       >
         <div className="flex-grow flex flex-col lg:mx-40 justify-center items-center p-4">
           <div
-            className="w-full h-[800px] mt-10 flex flex-col bg-white rounded-lg p-4 overflow-y-auto scrollbar-custom border border-[#c3582a]" // Set background to white and border to dark orange
+            className="w-full h-[800px]  flex flex-col bg-white rounded-lg p-4 overflow-y-auto scrollbar-custom border border-[#c3582a]" // Set background to white and border to dark orange
             style={{ maxHeight: 'calc(100vh - 200px)' }} // Adjust this value as needed
           >
             {messages.map((msg, index) => (
