@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\septic.wav",
+    "duration": 4.57
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.17, "value": "F" },
+    { "start": 0.17, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.39, "value": "A" },
+    { "start": 0.39, "end": 0.62, "value": "C" },
+    { "start": 0.62, "end": 0.76, "value": "B" },
+    { "start": 0.76, "end": 0.85, "value": "A" },
+    { "start": 0.85, "end": 0.91, "value": "C" },
+    { "start": 0.91, "end": 0.97, "value": "B" },
+    { "start": 0.97, "end": 1.18, "value": "C" },
+    { "start": 1.18, "end": 1.39, "value": "B" },
+    { "start": 1.39, "end": 1.47, "value": "A" },
+    { "start": 1.47, "end": 2.00, "value": "B" },
+    { "start": 2.00, "end": 2.08, "value": "A" },
+    { "start": 2.08, "end": 2.29, "value": "B" },
+    { "start": 2.29, "end": 2.37, "value": "A" },
+    { "start": 2.37, "end": 2.61, "value": "C" },
+    { "start": 2.61, "end": 2.99, "value": "B" },
+    { "start": 2.99, "end": 3.04, "value": "E" },
+    { "start": 3.04, "end": 3.16, "value": "B" },
+    { "start": 3.16, "end": 3.24, "value": "A" },
+    { "start": 3.24, "end": 3.38, "value": "H" },
+    { "start": 3.38, "end": 3.59, "value": "B" },
+    { "start": 3.59, "end": 3.67, "value": "A" },
+    { "start": 3.67, "end": 3.76, "value": "E" },
+    { "start": 3.76, "end": 3.90, "value": "F" },
+    { "start": 3.90, "end": 4.53, "value": "B" },
+    { "start": 4.53, "end": 4.57, "value": "X" }
+  ]
+}

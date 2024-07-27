@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\painting.wav",
+    "duration": 4.20
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.10, "value": "A" },
+    { "start": 0.10, "end": 0.19, "value": "C" },
+    { "start": 0.19, "end": 0.61, "value": "B" },
+    { "start": 0.61, "end": 0.75, "value": "E" },
+    { "start": 0.75, "end": 0.82, "value": "G" },
+    { "start": 0.82, "end": 1.31, "value": "B" },
+    { "start": 1.31, "end": 1.38, "value": "F" },
+    { "start": 1.38, "end": 1.80, "value": "B" },
+    { "start": 1.80, "end": 1.92, "value": "A" },
+    { "start": 1.92, "end": 1.98, "value": "B" },
+    { "start": 1.98, "end": 2.10, "value": "C" },
+    { "start": 2.10, "end": 2.17, "value": "B" },
+    { "start": 2.17, "end": 2.31, "value": "D" },
+    { "start": 2.31, "end": 2.59, "value": "B" },
+    { "start": 2.59, "end": 2.73, "value": "C" },
+    { "start": 2.73, "end": 2.94, "value": "B" },
+    { "start": 2.94, "end": 3.08, "value": "G" },
+    { "start": 3.08, "end": 3.15, "value": "C" },
+    { "start": 3.15, "end": 3.22, "value": "G" },
+    { "start": 3.22, "end": 3.29, "value": "B" },
+    { "start": 3.29, "end": 3.43, "value": "D" },
+    { "start": 3.43, "end": 3.50, "value": "H" },
+    { "start": 3.50, "end": 3.57, "value": "B" },
+    { "start": 3.57, "end": 3.65, "value": "A" },
+    { "start": 3.65, "end": 3.88, "value": "E" },
+    { "start": 3.88, "end": 3.95, "value": "C" },
+    { "start": 3.95, "end": 4.16, "value": "E" },
+    { "start": 4.16, "end": 4.20, "value": "X" }
+  ]
+}

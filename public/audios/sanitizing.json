@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\sanitizing.wav",
+    "duration": 5.25
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.17, "value": "X" },
+    { "start": 0.17, "end": 0.38, "value": "C" },
+    { "start": 0.38, "end": 0.90, "value": "B" },
+    { "start": 0.90, "end": 0.95, "value": "F" },
+    { "start": 0.95, "end": 1.00, "value": "B" },
+    { "start": 1.00, "end": 1.21, "value": "F" },
+    { "start": 1.21, "end": 1.28, "value": "B" },
+    { "start": 1.28, "end": 1.49, "value": "C" },
+    { "start": 1.49, "end": 1.56, "value": "B" },
+    { "start": 1.56, "end": 1.70, "value": "C" },
+    { "start": 1.70, "end": 2.19, "value": "B" },
+    { "start": 2.19, "end": 2.27, "value": "A" },
+    { "start": 2.27, "end": 2.34, "value": "C" },
+    { "start": 2.34, "end": 2.61, "value": "F" },
+    { "start": 2.61, "end": 2.68, "value": "B" },
+    { "start": 2.68, "end": 2.76, "value": "A" },
+    { "start": 2.76, "end": 2.85, "value": "F" },
+    { "start": 2.85, "end": 2.93, "value": "A" },
+    { "start": 2.93, "end": 3.04, "value": "C" },
+    { "start": 3.04, "end": 3.46, "value": "B" },
+    { "start": 3.46, "end": 3.60, "value": "C" },
+    { "start": 3.60, "end": 3.81, "value": "X" },
+    { "start": 3.81, "end": 3.86, "value": "B" },
+    { "start": 3.86, "end": 4.04, "value": "C" },
+    { "start": 4.04, "end": 4.11, "value": "H" },
+    { "start": 4.11, "end": 4.39, "value": "C" },
+    { "start": 4.39, "end": 4.46, "value": "G" },
+    { "start": 4.46, "end": 4.53, "value": "B" },
+    { "start": 4.53, "end": 4.61, "value": "A" },
+    { "start": 4.61, "end": 4.66, "value": "C" },
+    { "start": 4.66, "end": 4.85, "value": "B" },
+    { "start": 4.85, "end": 4.92, "value": "C" },
+    { "start": 4.92, "end": 5.20, "value": "B" },
+    { "start": 5.20, "end": 5.25, "value": "X" }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\insulation.wav",
+    "duration": 3.66
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.17, "value": "F" },
+    { "start": 0.17, "end": 0.51, "value": "B" },
+    { "start": 0.51, "end": 0.58, "value": "C" },
+    { "start": 0.58, "end": 0.65, "value": "H" },
+    { "start": 0.65, "end": 0.72, "value": "B" },
+    { "start": 0.72, "end": 0.80, "value": "A" },
+    { "start": 0.80, "end": 0.95, "value": "C" },
+    { "start": 0.95, "end": 1.09, "value": "A" },
+    { "start": 1.09, "end": 1.17, "value": "B" },
+    { "start": 1.17, "end": 1.25, "value": "A" },
+    { "start": 1.25, "end": 1.42, "value": "B" },
+    { "start": 1.42, "end": 1.56, "value": "C" },
+    { "start": 1.56, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.70, "value": "G" },
+    { "start": 1.70, "end": 2.19, "value": "B" },
+    { "start": 2.19, "end": 2.27, "value": "A" },
+    { "start": 2.27, "end": 2.50, "value": "F" },
+    { "start": 2.50, "end": 2.57, "value": "G" },
+    { "start": 2.57, "end": 2.71, "value": "C" },
+    { "start": 2.71, "end": 2.78, "value": "E" },
+    { "start": 2.78, "end": 2.99, "value": "B" },
+    { "start": 2.99, "end": 3.06, "value": "G" },
+    { "start": 3.06, "end": 3.62, "value": "B" },
+    { "start": 3.62, "end": 3.66, "value": "X" }
+  ]
+}

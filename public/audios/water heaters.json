@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\water heaters.wav",
+    "duration": 5.54
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.11, "value": "X" },
+    { "start": 0.11, "end": 0.16, "value": "F" },
+    { "start": 0.16, "end": 0.42, "value": "B" },
+    { "start": 0.42, "end": 0.63, "value": "E" },
+    { "start": 0.63, "end": 0.98, "value": "F" },
+    { "start": 0.98, "end": 1.33, "value": "B" },
+    { "start": 1.33, "end": 1.54, "value": "E" },
+    { "start": 1.54, "end": 1.68, "value": "B" },
+    { "start": 1.68, "end": 1.87, "value": "X" },
+    { "start": 1.87, "end": 1.99, "value": "B" },
+    { "start": 1.99, "end": 2.13, "value": "C" },
+    { "start": 2.13, "end": 2.41, "value": "B" },
+    { "start": 2.41, "end": 2.48, "value": "C" },
+    { "start": 2.48, "end": 2.62, "value": "H" },
+    { "start": 2.62, "end": 2.76, "value": "C" },
+    { "start": 2.76, "end": 2.90, "value": "B" },
+    { "start": 2.90, "end": 3.17, "value": "X" },
+    { "start": 3.17, "end": 3.32, "value": "B" },
+    { "start": 3.32, "end": 3.40, "value": "A" },
+    { "start": 3.40, "end": 3.58, "value": "C" },
+    { "start": 3.58, "end": 3.79, "value": "E" },
+    { "start": 3.79, "end": 3.87, "value": "A" },
+    { "start": 3.87, "end": 3.92, "value": "C" },
+    { "start": 3.92, "end": 4.03, "value": "B" },
+    { "start": 4.03, "end": 4.17, "value": "C" },
+    { "start": 4.17, "end": 4.80, "value": "B" },
+    { "start": 4.80, "end": 4.87, "value": "E" },
+    { "start": 4.87, "end": 5.22, "value": "B" },
+    { "start": 5.22, "end": 5.36, "value": "E" },
+    { "start": 5.36, "end": 5.50, "value": "B" },
+    { "start": 5.50, "end": 5.54, "value": "X" }
+  ]
+}

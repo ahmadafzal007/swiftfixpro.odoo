@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\garbage disposal.wav",
+    "duration": 5.15
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.11, "value": "X" },
+    { "start": 0.11, "end": 0.31, "value": "C" },
+    { "start": 0.31, "end": 0.81, "value": "B" },
+    { "start": 0.81, "end": 0.85, "value": "F" },
+    { "start": 0.85, "end": 1.03, "value": "B" },
+    { "start": 1.03, "end": 1.17, "value": "C" },
+    { "start": 1.17, "end": 1.25, "value": "A" },
+    { "start": 1.25, "end": 1.49, "value": "F" },
+    { "start": 1.49, "end": 1.63, "value": "D" },
+    { "start": 1.63, "end": 1.70, "value": "C" },
+    { "start": 1.70, "end": 1.78, "value": "A" },
+    { "start": 1.78, "end": 2.11, "value": "B" },
+    { "start": 2.11, "end": 2.19, "value": "A" },
+    { "start": 2.19, "end": 2.37, "value": "E" },
+    { "start": 2.37, "end": 2.44, "value": "B" },
+    { "start": 2.44, "end": 2.51, "value": "C" },
+    { "start": 2.51, "end": 2.93, "value": "B" },
+    { "start": 2.93, "end": 3.01, "value": "A" },
+    { "start": 3.01, "end": 3.23, "value": "B" },
+    { "start": 3.23, "end": 3.30, "value": "G" },
+    { "start": 3.30, "end": 3.80, "value": "B" },
+    { "start": 3.80, "end": 3.87, "value": "E" },
+    { "start": 3.87, "end": 3.94, "value": "B" },
+    { "start": 3.94, "end": 4.02, "value": "A" },
+    { "start": 4.02, "end": 4.13, "value": "H" },
+    { "start": 4.13, "end": 4.20, "value": "C" },
+    { "start": 4.20, "end": 4.27, "value": "B" },
+    { "start": 4.27, "end": 4.34, "value": "G" },
+    { "start": 4.34, "end": 4.48, "value": "E" },
+    { "start": 4.48, "end": 4.69, "value": "B" },
+    { "start": 4.69, "end": 4.83, "value": "F" },
+    { "start": 4.83, "end": 4.90, "value": "C" },
+    { "start": 4.90, "end": 5.11, "value": "B" },
+    { "start": 5.11, "end": 5.15, "value": "X" }
+  ]
+}

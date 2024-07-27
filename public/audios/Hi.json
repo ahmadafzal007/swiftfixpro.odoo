@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\Hi.wav",
+    "duration": 1.54
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.17, "value": "X" },
+    { "start": 0.17, "end": 0.42, "value": "D" },
+    { "start": 0.42, "end": 0.47, "value": "C" },
+    { "start": 0.47, "end": 0.65, "value": "B" },
+    { "start": 0.65, "end": 0.86, "value": "C" },
+    { "start": 0.86, "end": 1.21, "value": "B" },
+    { "start": 1.21, "end": 1.49, "value": "F" },
+    { "start": 1.49, "end": 1.54, "value": "X" }
+  ]
+}

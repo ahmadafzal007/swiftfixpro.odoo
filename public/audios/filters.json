@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\filters.wav",
+    "duration": 5.66
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.18, "value": "F" },
+    { "start": 0.18, "end": 0.32, "value": "B" },
+    { "start": 0.32, "end": 0.40, "value": "A" },
+    { "start": 0.40, "end": 0.54, "value": "H" },
+    { "start": 0.54, "end": 0.61, "value": "C" },
+    { "start": 0.61, "end": 1.10, "value": "B" },
+    { "start": 1.10, "end": 1.31, "value": "C" },
+    { "start": 1.31, "end": 1.38, "value": "B" },
+    { "start": 1.38, "end": 1.45, "value": "G" },
+    { "start": 1.45, "end": 1.59, "value": "B" },
+    { "start": 1.59, "end": 1.73, "value": "E" },
+    { "start": 1.73, "end": 2.29, "value": "F" },
+    { "start": 2.29, "end": 2.41, "value": "A" },
+    { "start": 2.41, "end": 2.45, "value": "B" },
+    { "start": 2.45, "end": 2.53, "value": "A" },
+    { "start": 2.53, "end": 2.69, "value": "E" },
+    { "start": 2.69, "end": 2.83, "value": "C" },
+    { "start": 2.83, "end": 2.90, "value": "B" },
+    { "start": 2.90, "end": 2.97, "value": "G" },
+    { "start": 2.97, "end": 3.18, "value": "E" },
+    { "start": 3.18, "end": 3.25, "value": "F" },
+    { "start": 3.25, "end": 3.46, "value": "X" },
+    { "start": 3.46, "end": 3.58, "value": "B" },
+    { "start": 3.58, "end": 3.72, "value": "G" },
+    { "start": 3.72, "end": 4.21, "value": "B" },
+    { "start": 4.21, "end": 4.35, "value": "F" },
+    { "start": 4.35, "end": 4.42, "value": "B" },
+    { "start": 4.42, "end": 4.56, "value": "C" },
+    { "start": 4.56, "end": 4.98, "value": "B" },
+    { "start": 4.98, "end": 5.12, "value": "C" },
+    { "start": 5.12, "end": 5.40, "value": "B" },
+    { "start": 5.40, "end": 5.54, "value": "C" },
+    { "start": 5.54, "end": 5.62, "value": "A" },
+    { "start": 5.62, "end": 5.66, "value": "X" }
+  ]
+}

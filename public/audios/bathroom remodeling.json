@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\bathroom remodeling.wav",
+    "duration": 4.15
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.16, "value": "B" },
+    { "start": 0.16, "end": 0.43, "value": "F" },
+    { "start": 0.43, "end": 0.51, "value": "A" },
+    { "start": 0.51, "end": 0.58, "value": "E" },
+    { "start": 0.58, "end": 0.66, "value": "A" },
+    { "start": 0.66, "end": 0.71, "value": "D" },
+    { "start": 0.71, "end": 1.18, "value": "B" },
+    { "start": 1.18, "end": 1.25, "value": "E" },
+    { "start": 1.25, "end": 1.32, "value": "G" },
+    { "start": 1.32, "end": 1.88, "value": "B" },
+    { "start": 1.88, "end": 1.95, "value": "F" },
+    { "start": 1.95, "end": 2.30, "value": "B" },
+    { "start": 2.30, "end": 2.43, "value": "A" },
+    { "start": 2.43, "end": 2.50, "value": "B" },
+    { "start": 2.50, "end": 2.57, "value": "C" },
+    { "start": 2.57, "end": 2.71, "value": "B" },
+    { "start": 2.71, "end": 2.85, "value": "D" },
+    { "start": 2.85, "end": 2.99, "value": "B" },
+    { "start": 2.99, "end": 3.13, "value": "G" },
+    { "start": 3.13, "end": 3.20, "value": "C" },
+    { "start": 3.20, "end": 3.27, "value": "G" },
+    { "start": 3.27, "end": 3.41, "value": "C" },
+    { "start": 3.41, "end": 3.62, "value": "B" },
+    { "start": 3.62, "end": 3.97, "value": "E" },
+    { "start": 3.97, "end": 4.11, "value": "B" },
+    { "start": 4.11, "end": 4.15, "value": "X" }
+  ]
+}

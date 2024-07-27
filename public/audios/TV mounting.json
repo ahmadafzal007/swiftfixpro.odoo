@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\TV mounting.wav",
+    "duration": 4.76
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.46, "value": "B" },
+    { "start": 0.46, "end": 0.54, "value": "A" },
+    { "start": 0.54, "end": 0.59, "value": "C" },
+    { "start": 0.59, "end": 0.64, "value": "E" },
+    { "start": 0.64, "end": 0.99, "value": "B" },
+    { "start": 0.99, "end": 1.13, "value": "E" },
+    { "start": 1.13, "end": 1.20, "value": "G" },
+    { "start": 1.20, "end": 1.69, "value": "B" },
+    { "start": 1.69, "end": 1.76, "value": "F" },
+    { "start": 1.76, "end": 2.18, "value": "B" },
+    { "start": 2.18, "end": 2.31, "value": "A" },
+    { "start": 2.31, "end": 2.40, "value": "B" },
+    { "start": 2.40, "end": 2.47, "value": "C" },
+    { "start": 2.47, "end": 2.54, "value": "B" },
+    { "start": 2.54, "end": 2.75, "value": "D" },
+    { "start": 2.75, "end": 2.82, "value": "B" },
+    { "start": 2.82, "end": 3.09, "value": "X" },
+    { "start": 3.09, "end": 3.26, "value": "B" },
+    { "start": 3.26, "end": 3.33, "value": "C" },
+    { "start": 3.33, "end": 3.40, "value": "G" },
+    { "start": 3.40, "end": 3.54, "value": "B" },
+    { "start": 3.54, "end": 3.68, "value": "G" },
+    { "start": 3.68, "end": 3.75, "value": "C" },
+    { "start": 3.75, "end": 3.89, "value": "B" },
+    { "start": 3.89, "end": 4.03, "value": "D" },
+    { "start": 4.03, "end": 4.10, "value": "H" },
+    { "start": 4.10, "end": 4.17, "value": "B" },
+    { "start": 4.17, "end": 4.25, "value": "A" },
+    { "start": 4.25, "end": 4.44, "value": "E" },
+    { "start": 4.44, "end": 4.58, "value": "C" },
+    { "start": 4.58, "end": 4.72, "value": "E" },
+    { "start": 4.72, "end": 4.76, "value": "X" }
+  ]
+}

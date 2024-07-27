@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Ahmad Afzal\\Desktop\\oddo\\public\\audios\\gas filling.wav",
+    "duration": 5.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.15, "value": "F" },
+    { "start": 0.15, "end": 0.33, "value": "B" },
+    { "start": 0.33, "end": 0.47, "value": "C" },
+    { "start": 0.47, "end": 0.82, "value": "B" },
+    { "start": 0.82, "end": 0.89, "value": "G" },
+    { "start": 0.89, "end": 1.10, "value": "B" },
+    { "start": 1.10, "end": 1.17, "value": "C" },
+    { "start": 1.17, "end": 1.24, "value": "B" },
+    { "start": 1.24, "end": 1.38, "value": "G" },
+    { "start": 1.38, "end": 1.66, "value": "B" },
+    { "start": 1.66, "end": 1.94, "value": "C" },
+    { "start": 1.94, "end": 2.08, "value": "B" },
+    { "start": 2.08, "end": 2.15, "value": "H" },
+    { "start": 2.15, "end": 2.22, "value": "C" },
+    { "start": 2.22, "end": 2.50, "value": "B" },
+    { "start": 2.50, "end": 2.64, "value": "F" },
+    { "start": 2.64, "end": 2.71, "value": "B" },
+    { "start": 2.71, "end": 2.78, "value": "C" },
+    { "start": 2.78, "end": 3.27, "value": "B" },
+    { "start": 3.27, "end": 3.34, "value": "C" },
+    { "start": 3.34, "end": 3.76, "value": "B" },
+    { "start": 3.76, "end": 3.84, "value": "A" },
+    { "start": 3.84, "end": 4.02, "value": "F" },
+    { "start": 4.02, "end": 4.09, "value": "B" },
+    { "start": 4.09, "end": 4.37, "value": "F" },
+    { "start": 4.37, "end": 4.44, "value": "B" },
+    { "start": 4.44, "end": 4.51, "value": "D" },
+    { "start": 4.51, "end": 4.59, "value": "A" },
+    { "start": 4.59, "end": 4.75, "value": "E" },
+    { "start": 4.75, "end": 5.03, "value": "B" },
+    { "start": 5.03, "end": 5.10, "value": "G" },
+    { "start": 5.10, "end": 5.52, "value": "B" },
+    { "start": 5.52, "end": 5.56, "value": "X" }
+  ]
+}
